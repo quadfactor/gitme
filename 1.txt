@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BF75-0090
+
+ Directory of C:\src\gitme2
+
+18.05.2017  07:31    <DIR>          .
+18.05.2017  07:31    <DIR>          ..
+18.05.2017  07:31                 0 1.txt
+18.05.2017  07:30                 7 lala.tt
+18.05.2017  07:30    <DIR>          new
+18.05.2017  07:30                19 README.md
+18.05.2017  07:30                 0 sasadsd.txt
+               4 File(s)             26 bytes
+               3 Dir(s)  103ÿ449ÿ051ÿ136 bytes free
